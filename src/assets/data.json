@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "weather-App ",
+      "description": "you can easily search on any city weather ",
+      "url": "https://weather-app-react-js-delta.vercel.app/",
+      "imgSrc": "https://www.freecodecamp.org/news/content/images/size/w2000/2021/03/Pink-Cute-Chic-Vintage-90s-Virtual-Trivia-Quiz-Presentations--39-.png"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "TODO-LIST",
+      "description": "This is TODO-LIST Website.with the help of you can create your work list according ",
+      "url": "https://todo-list-t4le.vercel.app/",
+      "imgSrc": "https://miro.medium.com/v2/resize:fit:828/0*OZXZ-kMRjX_2MOdI"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
